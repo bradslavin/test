@@ -1,6 +1,4 @@
 test
 ====
 
-This is a test
-
-Test.
+This is a test.
