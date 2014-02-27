@@ -2,19 +2,19 @@ alert("Hello world");
 
 console.log("Hello world, from here too!");
 
-var doSomething(username) {
+function doSomething(username) {
 	var name = username;
 	name += " - Name";
 	return name;
 }
 
-var doSomething(username) {
+function doSomething(username) {
 	var name = username;
 	name += " - Name";
 	return name;
 }
 
-var doSomethingElse(username) {
+function doSomethingElse(username) {
 	var name = username;
 	name += " - Name";
 	return name;
