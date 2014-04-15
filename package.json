@@ -1,8 +1,5 @@
 {
    "name": "test-app",
    "version": "0.0.1",
-   "author": "Brad Slavin III",
-   "dependencies": {
-      "somethingtobreak":""
-   }
+   "author": "Brad Slavin III"
 }
