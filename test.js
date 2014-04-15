@@ -2,6 +2,8 @@ alert("Hello world");
 
 console.log("Hello world, from here too!");
 
+console.log("And here too!");
+
 function doSomething(username) {
 	var name = username;
 	name += " - Name";
