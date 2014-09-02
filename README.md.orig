@@ -1,6 +1,3 @@
-jasdg
- aksdg
-DDDD
 slkjdgo3usssSSSjsoijsstest
 ====
 X1847xhsdgs
@@ -10,13 +7,16 @@ This is also a test.
 I removed a couple lines.
 43
 5
+<<<<<<< HEAD
 A
 B
-
 C
-E
 
 AAAA
+=======
+6
+7
+>>>>>>> FETCH_HEAD
 
 Another edit
 One more here
