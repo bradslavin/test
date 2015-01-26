@@ -1,54 +1,7 @@
-ABCDasgsEFG!!!
-
-asdgasdg
-
-Another small edit
-;laksdg;laksdg
-asd
-a
-sdg
-asdg
-asdgasdg
-asdg
-asdg
-asdg
-asdg
-asdg
-Test again
-Test
-
-Another small edit - again
+Another small edit  on `testnewbranch`
 
 asdgasdgjasdg
  aksdg
 DDDD
 slkjdgo3usssSSSjsoijsstest
 ====
-X1847xhsdgs
-sdgjsdjThis is a test.
-This is also a test.
-
-
-asdg
-
-I removed a couple lines.
-43
-5
-A
-B
-
-asdg
-asd
-g
-sdg
-sdg
-C
-E
-
-AAAA
-
-Another edit
-One more here
-
-
-ANother edit  asdg
