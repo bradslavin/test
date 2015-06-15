@@ -14,10 +14,3 @@ Another one
 One more
 
 asdg
-
-A small edit here.
-
-Another [small](http://github.com) edit.
-
-
-A test commit
