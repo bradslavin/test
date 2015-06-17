@@ -1,3 +1,4 @@
+ABC
 Another small edit  on `testnewbranch`
 
 asdgasdgjasdg
@@ -19,5 +20,10 @@ asdg
 A small edit here.
 And another one here.
 
+<<<<<<< HEAD
 Blaaaaaah.
 Thing.
+=======
+A thing here.
+And one more thing here.
+>>>>>>> testmerges
