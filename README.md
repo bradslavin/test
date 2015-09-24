@@ -13,3 +13,4 @@ A small change
 Another one
 
 Test 1
+Test 2
